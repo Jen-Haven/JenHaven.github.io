@@ -19,6 +19,7 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
+  text-indent: 12px;
   line-height: 2; 
   font-family: cursive;
   color: #0b0a53; }
@@ -55,7 +56,7 @@ a {
 #main {
   padding: 50px; }
 
-  h1 {
+  h1 {text-indent: 12px;
       font-size: 24px;
       color: indigo;
   }
