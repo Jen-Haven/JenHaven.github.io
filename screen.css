@@ -14,12 +14,14 @@ time, mark, audio, video {
   margin: initial;
   padding: 0;
   border: 0;
-  font-size: 75%;
+  font-size: 100%;
   font: normal;
   vertical-align: baseline; }
 
 body {
-  line-height: 1; }
+  line-height: 2; 
+  font-family: cursive;
+  color: #0b0a53; }
 
 ol, ul {
   list-style: none; }
@@ -44,10 +46,6 @@ a img {
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
-
-body {
-  font-family: cursive;
-  color: #0b0a53; }
 
 a {
   color: #0388a6; }
