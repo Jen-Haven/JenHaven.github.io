@@ -11,54 +11,27 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: initial;
-  padding: 0;
+  margin: 5px;
+  padding: 5px;
   border: black;
   font-size: 100%;
-  font: normal;
-  vertical-align: baseline; 
+  font: small-caps;
+  color: #000;
+  align-content: center;
+  text-align: center;
   background-color: lavender;}
 
-body {
-  text-align: center;
-  line-height: 2; 
-  font-family: cursive;
-  color: #0b0a53; }
+h1 {font-size: 36px;
+    color: indigo;}
 
-ol, ul {
-  list-style: none; }
+h2 {font-size: 24px;
+    color: indigo;}
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0; }
+div {
+    width: fit-content;
+    height: fit-content;}
 
-caption, th, td {
-  text-align: center;
-  font-weight: normal;
-  vertical-align: middle; }
+img {padding: 5px;}
 
-q, blockquote {
-  quotes: none; }
-  q:before, q:after, blockquote:before, blockquote:after {
-    content: "";
-    content: none; }
-
-a img {
-  border: none; }
-
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
-  display: block; }
-
-a {
-  color: #0388a6; }
-  a:hover {
-    color: #009ce0; }
-
-#main {
-  padding: 50px; }
-
-  h1 {text-indent: 12px;
-      font-size: 36px;
-      color: indigo;
-      font-variant: small-caps; 
-  }
+a {width: fit-content;
+  height: fit-content;}
