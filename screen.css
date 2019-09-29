@@ -13,13 +13,14 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: initial;
   padding: 0;
-  border: 0;
+  border: black;
   font-size: 100%;
   font: normal;
-  vertical-align: baseline; }
+  vertical-align: baseline; 
+  background-color: lavender;}
 
 body {
-  text-indent: 12px;
+  text-align: center;
   line-height: 2; 
   font-family: cursive;
   color: #0b0a53; }
@@ -32,7 +33,7 @@ table {
   border-spacing: 0; }
 
 caption, th, td {
-  text-align: left;
+  text-align: center;
   font-weight: normal;
   vertical-align: middle; }
 
@@ -57,6 +58,7 @@ a {
   padding: 50px; }
 
   h1 {text-indent: 12px;
-      font-size: 24px;
+      font-size: 36px;
       color: indigo;
+      font-variant: small-caps; 
   }
