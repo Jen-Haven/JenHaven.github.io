@@ -35,3 +35,17 @@ img {padding: 5px;}
 
 a {width: fit-content;
   height: fit-content;}
+
+* {
+    box-sizing: border-box;
+  }
+
+
+menu {
+    width: 50%;
+    float: left;
+  }
+main {
+    width: 50%;
+    float: left;
+  }
