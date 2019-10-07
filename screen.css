@@ -41,9 +41,9 @@ a {width: fit-content;
 
 menu {
     width: 50%;
-    float: left;
+    float: center;
   }
 main {
     width: 50%;
-    float: left;
+    float: center;
   }
