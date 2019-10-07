@@ -20,17 +20,19 @@ time, mark, audio, video {
   text-align: center;
   background-color: lavender;}
 
-nav{height: fit-content;
+nav{
     color: black;
     background-color: gray;}
 
 h1 {font-size: 36px;
-    color: indigo;}
+    color: indigo;
+  text-align: right;}
 
 h2 {font-size: 24px;
     color: indigo;}
 
 div {
+    align-content: center;
     width: fit-content;
     height: fit-content;}
 
