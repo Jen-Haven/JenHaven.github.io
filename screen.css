@@ -21,7 +21,8 @@ time, mark, audio, video {
   background-color: lavender;}
 
 nav{height: fit-content;
-    color: lavender;}
+    color: black;
+    background-color: gray;}
 
 h1 {font-size: 36px;
     color: indigo;}
