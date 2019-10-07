@@ -13,13 +13,15 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 5px;
   padding: 5px;
-  border: black;
   font-size: 100%;
   font: small-caps;
   color: #000;
   align-content: center;
   text-align: center;
   background-color: lavender;}
+
+nav{height: fit-content;
+    color: lavender;}
 
 h1 {font-size: 36px;
     color: indigo;}
@@ -35,11 +37,6 @@ img {padding: 5px;}
 
 a {width: fit-content;
   height: fit-content;}
-
-* {
-    box-sizing: border-box;
-  }
-
 
 menu {
     width: 50%;
